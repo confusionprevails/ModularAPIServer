@@ -1,0 +1,8 @@
+{
+  "name": "helloWorld",
+  "description": "The best project ever.",
+  "version": "0.1.0",
+  "homepage": "",
+  "main": "lib/helloWorld"
+
+}
